@@ -1,0 +1,39 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HusqvarnaAutomowerConnect.App", "HusqvarnaAutomowerConnect.App\HusqvarnaAutomowerConnect.App.csproj", "{8F6D4A0E-05D6-4BF6-81DA-3C55A935B84F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HusqvarnaAutomowerConnect.Core", "HusqvarnaAutomowerConnect.Core\HusqvarnaAutomowerConnect.Core.csproj", "{C3D4A4D3-9E2B-47AC-9C3A-08DF7B0F3D75}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HusqvarnaAutomowerConnect.Infrastructure", "HusqvarnaAutomowerConnect.Infrastructure\HusqvarnaAutomowerConnect.Infrastructure.csproj", "{C0C6A8F9-0405-4FF2-93D3-4D922CDBF3A1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HusqvarnaAutomowerConnect.Tests", "HusqvarnaAutomowerConnect.Tests\HusqvarnaAutomowerConnect.Tests.csproj", "{B2A25E58-76D4-4AE4-98EC-8B6A5A772316}"
+EndProject
+Global
+  GlobalSection(SolutionConfigurationPlatforms) = preSolution
+    Debug|Any CPU = Debug|Any CPU
+    Release|Any CPU = Release|Any CPU
+  EndGlobalSection
+  GlobalSection(ProjectConfigurationPlatforms) = postSolution
+    {8F6D4A0E-05D6-4BF6-81DA-3C55A935B84F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+    {8F6D4A0E-05D6-4BF6-81DA-3C55A935B84F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+    {8F6D4A0E-05D6-4BF6-81DA-3C55A935B84F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+    {8F6D4A0E-05D6-4BF6-81DA-3C55A935B84F}.Release|Any CPU.Build.0 = Release|Any CPU
+    {C3D4A4D3-9E2B-47AC-9C3A-08DF7B0F3D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+    {C3D4A4D3-9E2B-47AC-9C3A-08DF7B0F3D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+    {C3D4A4D3-9E2B-47AC-9C3A-08DF7B0F3D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+    {C3D4A4D3-9E2B-47AC-9C3A-08DF7B0F3D75}.Release|Any CPU.Build.0 = Release|Any CPU
+    {C0C6A8F9-0405-4FF2-93D3-4D922CDBF3A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+    {C0C6A8F9-0405-4FF2-93D3-4D922CDBF3A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+    {C0C6A8F9-0405-4FF2-93D3-4D922CDBF3A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+    {C0C6A8F9-0405-4FF2-93D3-4D922CDBF3A1}.Release|Any CPU.Build.0 = Release|Any CPU
+    {B2A25E58-76D4-4AE4-98EC-8B6A5A772316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+    {B2A25E58-76D4-4AE4-98EC-8B6A5A772316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+    {B2A25E58-76D4-4AE4-98EC-8B6A5A772316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+    {B2A25E58-76D4-4AE4-98EC-8B6A5A772316}.Release|Any CPU.Build.0 = Release|Any CPU
+  EndGlobalSection
+  GlobalSection(SolutionProperties) = preSolution
+    HideSolutionNode = FALSE
+  EndGlobalSection
+EndGlobal

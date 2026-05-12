@@ -1,0 +1,23 @@
+bin/
+obj/
+.vs/
+
+# Local configuration and secrets
+appsettings.Local.json
+.env
+*.user
+*.suo
+*.pfx
+
+# Logs and diagnostics
+*.log
+logs/
+
+# Visual Studio / Rider
+*.rsuser
+_ReSharper.Caches/
+
+# Packages and artifacts
+packages/
+TestResults/
+
